@@ -1,0 +1,39 @@
+h3
+
+{
+
+
+   
+    text-align : center;
+	padding: 10px;
+  background: #008080;
+  border: 2px solid red;
+   border-radius: 10px;
+	/*width : 250px;*/
+	
+
+}
+
+li
+
+{
+  
+
+}
+
+
+table {
+border: medium solid #000000;
+width: 50%;
+}
+td, th {
+border: thin solid #6495ed;
+width: 50%;
+}
+
+
+body 
+
+{
+background : #FFE4E1;
+}
